@@ -3,7 +3,7 @@
 | Setup step           | command                                                       |
 | -------------------- | ------------------------------------------------------------- |
 | Clone this repo      | `git clone git@github.com:brucemcclure/flask-hello-world.git` |
-| cd into the repo     | `cd flask-hellow-world`                                       |
+| cd into the repo     | `cd flask-hello-world`                                        |
 | Create env           | `python3 -m venv venv`                                        |
 | Activate venv        | `source venv/bin/activate`                                    |
 | Install requirements | `pip3 install -r requirements.txt`                            |
