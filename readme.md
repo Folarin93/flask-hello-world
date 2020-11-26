@@ -1,4 +1,4 @@
-# How to get this thing running locally
+# How to get this app running locally
 
 | Setup step           | command                                                       |
 | -------------------- | ------------------------------------------------------------- |
